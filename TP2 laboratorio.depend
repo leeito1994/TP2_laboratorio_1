@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1570143339 source:c:\users\luisa\desktop\tp2 laboratorio\biblioteca.c
+	"Biblioteca.h"
+	"string.h"
+
+1570146221 c:\users\luisa\desktop\tp2 laboratorio\biblioteca.h
+	<stdio.h>
+	<stdlib.h>
+	"ctype.h"
+	"conio.h"
+
+1570130276 source:c:\users\luisa\desktop\tp2 laboratorio\main.c
+	"Biblioteca.h"
+
